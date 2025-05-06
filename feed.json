@@ -1,0 +1,154 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "上海大学猫盟",
+    "description": "",
+    "home_page_url": "https://lkxnif.github.io/shu-maomeng",
+    "feed_url": "https://lkxnif.github.io/shu-maomeng/feed.json",
+    "user_comment": "",
+    "icon": "https://lkxnif.github.io/shu-maomeng/media/website/Shang-Hai-Da-Xue.svg",
+    "author": {
+        "name": "LK"
+    },
+    "items": [
+        {
+            "id": "https://lkxnif.github.io/shu-maomeng/yan-yan.html",
+            "url": "https://lkxnif.github.io/shu-maomeng/yan-yan.html",
+            "title": "眼眼",
+            "image": "https://lkxnif.github.io/shu-maomeng/media/posts/50/Yan-Yan.jpg",
+            "author": {
+                "name": "LK"
+            },
+            "tags": [
+                   "延长校区"
+            ],
+            "date_published": "2025-05-06T14:08:12+08:00",
+            "date_modified": "2025-05-06T14:09:23+08:00"
+        },
+        {
+            "id": "https://lkxnif.github.io/shu-maomeng/xiao-ye.html",
+            "url": "https://lkxnif.github.io/shu-maomeng/xiao-ye.html",
+            "title": "小夜",
+            "image": "https://lkxnif.github.io/shu-maomeng/media/posts/49/Xiao-Ye.jpg",
+            "author": {
+                "name": "LK"
+            },
+            "tags": [
+                   "宝山校区"
+            ],
+            "date_published": "2025-05-06T14:07:56+08:00",
+            "date_modified": "2025-05-06T14:11:38+08:00"
+        },
+        {
+            "id": "https://lkxnif.github.io/shu-maomeng/xiao-ping-tou.html",
+            "url": "https://lkxnif.github.io/shu-maomeng/xiao-ping-tou.html",
+            "title": "小平头",
+            "image": "https://lkxnif.github.io/shu-maomeng/media/posts/48/Xiao-Ping-Tou.jpg",
+            "author": {
+                "name": "LK"
+            },
+            "tags": [
+                   "宝山校区"
+            ],
+            "date_published": "2025-05-06T14:07:40+08:00",
+            "date_modified": "2025-05-06T14:11:32+08:00"
+        },
+        {
+            "id": "https://lkxnif.github.io/shu-maomeng/xiao-piao-niang.html",
+            "url": "https://lkxnif.github.io/shu-maomeng/xiao-piao-niang.html",
+            "title": "小漂酿",
+            "image": "https://lkxnif.github.io/shu-maomeng/media/posts/47/Xiao-Piao-Niang.jpg",
+            "author": {
+                "name": "LK"
+            },
+            "tags": [
+                   "宝山校区"
+            ],
+            "date_published": "2025-05-06T14:07:28+08:00",
+            "date_modified": "2025-05-06T14:10:54+08:00"
+        },
+        {
+            "id": "https://lkxnif.github.io/shu-maomeng/xiao-jin-ju.html",
+            "url": "https://lkxnif.github.io/shu-maomeng/xiao-jin-ju.html",
+            "title": "小金橘",
+            "image": "https://lkxnif.github.io/shu-maomeng/media/posts/46/Xiao-Jin-Ju.jpg",
+            "author": {
+                "name": "LK"
+            },
+            "tags": [
+                   "嘉定校区"
+            ],
+            "date_published": "2025-05-06T14:07:15+08:00",
+            "date_modified": "2025-05-06T14:17:30+08:00"
+        },
+        {
+            "id": "https://lkxnif.github.io/shu-maomeng/xiao-guai-shou-2.html",
+            "url": "https://lkxnif.github.io/shu-maomeng/xiao-guai-shou-2.html",
+            "title": "小怪兽",
+            "image": "https://lkxnif.github.io/shu-maomeng/media/posts/45/Xiao-Guai-Shou-2.jpg",
+            "author": {
+                "name": "LK"
+            },
+            "tags": [
+                   "嘉定校区"
+            ],
+            "date_published": "2025-05-06T14:06:51+08:00",
+            "date_modified": "2025-05-06T15:04:02+08:00"
+        },
+        {
+            "id": "https://lkxnif.github.io/shu-maomeng/xiao-ai.html",
+            "url": "https://lkxnif.github.io/shu-maomeng/xiao-ai.html",
+            "title": "小爱",
+            "image": "https://lkxnif.github.io/shu-maomeng/media/posts/43/Xiao-Ai.jpg",
+            "author": {
+                "name": "LK"
+            },
+            "tags": [
+                   "宝山校区"
+            ],
+            "date_published": "2025-05-06T14:06:37+08:00",
+            "date_modified": "2025-05-06T14:10:35+08:00"
+        },
+        {
+            "id": "https://lkxnif.github.io/shu-maomeng/tu-si.html",
+            "url": "https://lkxnif.github.io/shu-maomeng/tu-si.html",
+            "title": "吐司",
+            "image": "https://lkxnif.github.io/shu-maomeng/media/posts/42/Tu-Si.jpg",
+            "author": {
+                "name": "LK"
+            },
+            "tags": [
+                   "嘉定校区"
+            ],
+            "date_published": "2025-05-06T14:06:21+08:00",
+            "date_modified": "2025-05-06T14:17:44+08:00"
+        },
+        {
+            "id": "https://lkxnif.github.io/shu-maomeng/tian-hua-ban.html",
+            "url": "https://lkxnif.github.io/shu-maomeng/tian-hua-ban.html",
+            "title": "天花板",
+            "image": "https://lkxnif.github.io/shu-maomeng/media/posts/41/Tian-Hua-Ban.jpg",
+            "author": {
+                "name": "LK"
+            },
+            "tags": [
+                   "嘉定校区"
+            ],
+            "date_published": "2025-05-06T14:06:07+08:00",
+            "date_modified": "2025-05-06T14:17:48+08:00"
+        },
+        {
+            "id": "https://lkxnif.github.io/shu-maomeng/shu-jia.html",
+            "url": "https://lkxnif.github.io/shu-maomeng/shu-jia.html",
+            "title": "暑假",
+            "image": "https://lkxnif.github.io/shu-maomeng/media/posts/40/Shu-Jia.jpg",
+            "author": {
+                "name": "LK"
+            },
+            "tags": [
+                   "宝山校区"
+            ],
+            "date_published": "2025-05-06T14:05:49+08:00",
+            "date_modified": "2025-05-06T14:11:49+08:00"
+        }
+    ]
+}

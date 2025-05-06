@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>上海大学猫盟</title>
+    <link href="https://lkxnif.github.io/shu-maomeng/feed.xml" rel="self" />
+    <link href="https://lkxnif.github.io/shu-maomeng" />
+    <updated>2025-05-06T15:04:02+08:00</updated>
+    <author>
+        <name>LK</name>
+    </author>
+    <id>https://lkxnif.github.io/shu-maomeng</id>
+
+    <entry>
+        <title>眼眼</title>
+        <author>
+            <name>LK</name>
+        </author>
+        <link href="https://lkxnif.github.io/shu-maomeng/yan-yan.html"/>
+        <id>https://lkxnif.github.io/shu-maomeng/yan-yan.html</id>
+        <media:content url="https://lkxnif.github.io/shu-maomeng/media/posts/50/Yan-Yan.jpg" medium="image" />
+            <category term="延长校区"/>
+
+        <updated>2025-05-06T14:08:12+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>小夜</title>
+        <author>
+            <name>LK</name>
+        </author>
+        <link href="https://lkxnif.github.io/shu-maomeng/xiao-ye.html"/>
+        <id>https://lkxnif.github.io/shu-maomeng/xiao-ye.html</id>
+        <media:content url="https://lkxnif.github.io/shu-maomeng/media/posts/49/Xiao-Ye.jpg" medium="image" />
+            <category term="宝山校区"/>
+
+        <updated>2025-05-06T14:07:56+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>小平头</title>
+        <author>
+            <name>LK</name>
+        </author>
+        <link href="https://lkxnif.github.io/shu-maomeng/xiao-ping-tou.html"/>
+        <id>https://lkxnif.github.io/shu-maomeng/xiao-ping-tou.html</id>
+        <media:content url="https://lkxnif.github.io/shu-maomeng/media/posts/48/Xiao-Ping-Tou.jpg" medium="image" />
+            <category term="宝山校区"/>
+
+        <updated>2025-05-06T14:07:40+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>小漂酿</title>
+        <author>
+            <name>LK</name>
+        </author>
+        <link href="https://lkxnif.github.io/shu-maomeng/xiao-piao-niang.html"/>
+        <id>https://lkxnif.github.io/shu-maomeng/xiao-piao-niang.html</id>
+        <media:content url="https://lkxnif.github.io/shu-maomeng/media/posts/47/Xiao-Piao-Niang.jpg" medium="image" />
+            <category term="宝山校区"/>
+
+        <updated>2025-05-06T14:07:28+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>小金橘</title>
+        <author>
+            <name>LK</name>
+        </author>
+        <link href="https://lkxnif.github.io/shu-maomeng/xiao-jin-ju.html"/>
+        <id>https://lkxnif.github.io/shu-maomeng/xiao-jin-ju.html</id>
+        <media:content url="https://lkxnif.github.io/shu-maomeng/media/posts/46/Xiao-Jin-Ju.jpg" medium="image" />
+            <category term="嘉定校区"/>
+
+        <updated>2025-05-06T14:07:15+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>小怪兽</title>
+        <author>
+            <name>LK</name>
+        </author>
+        <link href="https://lkxnif.github.io/shu-maomeng/xiao-guai-shou-2.html"/>
+        <id>https://lkxnif.github.io/shu-maomeng/xiao-guai-shou-2.html</id>
+        <media:content url="https://lkxnif.github.io/shu-maomeng/media/posts/45/Xiao-Guai-Shou-2.jpg" medium="image" />
+            <category term="嘉定校区"/>
+
+        <updated>2025-05-06T14:06:51+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>小爱</title>
+        <author>
+            <name>LK</name>
+        </author>
+        <link href="https://lkxnif.github.io/shu-maomeng/xiao-ai.html"/>
+        <id>https://lkxnif.github.io/shu-maomeng/xiao-ai.html</id>
+        <media:content url="https://lkxnif.github.io/shu-maomeng/media/posts/43/Xiao-Ai.jpg" medium="image" />
+            <category term="宝山校区"/>
+
+        <updated>2025-05-06T14:06:37+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>吐司</title>
+        <author>
+            <name>LK</name>
+        </author>
+        <link href="https://lkxnif.github.io/shu-maomeng/tu-si.html"/>
+        <id>https://lkxnif.github.io/shu-maomeng/tu-si.html</id>
+        <media:content url="https://lkxnif.github.io/shu-maomeng/media/posts/42/Tu-Si.jpg" medium="image" />
+            <category term="嘉定校区"/>
+
+        <updated>2025-05-06T14:06:21+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>天花板</title>
+        <author>
+            <name>LK</name>
+        </author>
+        <link href="https://lkxnif.github.io/shu-maomeng/tian-hua-ban.html"/>
+        <id>https://lkxnif.github.io/shu-maomeng/tian-hua-ban.html</id>
+        <media:content url="https://lkxnif.github.io/shu-maomeng/media/posts/41/Tian-Hua-Ban.jpg" medium="image" />
+            <category term="嘉定校区"/>
+
+        <updated>2025-05-06T14:06:07+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>暑假</title>
+        <author>
+            <name>LK</name>
+        </author>
+        <link href="https://lkxnif.github.io/shu-maomeng/shu-jia.html"/>
+        <id>https://lkxnif.github.io/shu-maomeng/shu-jia.html</id>
+        <media:content url="https://lkxnif.github.io/shu-maomeng/media/posts/40/Shu-Jia.jpg" medium="image" />
+            <category term="宝山校区"/>
+
+        <updated>2025-05-06T14:05:49+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
